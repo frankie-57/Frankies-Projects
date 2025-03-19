@@ -1,4 +1,4 @@
-##This website takes a passage and determines the suggested grade level of the reader! 
+##This website takes a passage and determines the suggested grade level of the reader
 
 from cs50 import get_string
 
